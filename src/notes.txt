@@ -1,0 +1,18 @@
+party playlist:
+searches tracks for factors like danceability, enery, and valence
+the goal is to find high energy songs that are positive and easy to dance to
+looks for songs that:
+-have high energy
+-are easy to dance to(high danceability score)
+
+study playlist:
+searches tracks for factors like energy, speechiness, and valence
+looks for songs that:
+-have low-mid energy
+-are not strongly positive or negative(mid valence score)
+-have low-mid speechiness(not too many words)
+
+crying playlist:
+searches tracks for valence
+looks for songs that:
+-are sad or negative(low valence score)
